@@ -1,0 +1,21 @@
+{
+    "name": "liaoxx/strict",
+    "description": "A PHP library for strict data structures like List and Map with generics support.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Liaoxx\\Strict\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "liaoxx",
+            "email": "993501756@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=8.1"
+    }
+}
